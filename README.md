@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/banner.svg" width="720" alt="Hello, I'm Hari! I am an AIML Enthusiast" />
 </p>
@@ -9,28 +10,39 @@
 </p>
 
 ## 🚀 About Me
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/about.svg" width="100%" alt="About Hari: learning Python, Machine Learning, Deep Learning, AI Agents. Ask me about AI & ML. He/Him" />
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/about.svg" width="100%" alt="About Hari" />
 </p>
 
 ## 📉 Model Training
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/training.svg" width="100%" alt="Animated training chart: loss going down, accuracy going up" />
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/training.svg" width="100%" alt="Model Training" />
 </p>
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/techstack.svg" width="100%" alt="Tech stack: JavaScript, Python, C, Bash, HTML5, CSS3, SQL, MySQL, NumPy, Pandas, scikit-learn, TensorFlow, Jupyter, VS Code, GitHub" />
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/techstack.svg" width="100%" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Harii-0&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" />
 </p>
 
-## 📈 Contribution Graph
+## 📈 Real GitHub Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my GitHub contribution graph" />
+  <img src="https://ghchart.rshah.org/00D26A/Harii-0" width="100%" alt="Real GitHub Contribution Graph" />
+</p>
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating GitHub contributions" />
 </p>
 
 <p align="center">
