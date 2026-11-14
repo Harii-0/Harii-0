@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340">
+<defs><filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect width="1000" height="340" rx="14" fill="#0B0F14"/>
+<line x1="70" y1="50.0" x2="950" y2="50.0" stroke="#1E293B"/>
+<line x1="70" y1="107.5" x2="950" y2="107.5" stroke="#1E293B"/>
+<line x1="70" y1="165.0" x2="950" y2="165.0" stroke="#1E293B"/>
+<line x1="70" y1="222.5" x2="950" y2="222.5" stroke="#1E293B"/>
+<line x1="70" y1="280.0" x2="950" y2="280.0" stroke="#1E293B"/>
+<text x="70.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">0</text>
+<text x="158.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">5</text>
+<text x="246.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">10</text>
+<text x="334.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">15</text>
+<text x="422.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">20</text>
+<text x="510.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">25</text>
+<text x="598.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">30</text>
+<text x="686.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">35</text>
+<text x="774.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">40</text>
+<text x="862.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">45</text>
+<text x="950.0" y="302" text-anchor="middle" font-family="Courier New,monospace" font-size="11" fill="#64748B">50</text>
+<text x="510" y="324" text-anchor="middle" font-family="Courier New,monospace" font-size="12" fill="#64748B">EPOCH</text>
+<text x="70" y="30" font-family="Courier New,monospace" font-size="14" fill="#22D3EE">● accuracy</text><text x="180" y="30" font-family="Courier New,monospace" font-size="14" fill="#F472B6">● loss</text>
+<path d="M70,66 L92,81 L114,98 L136,116 L158,134 L180,147 L202,155 L224,162 L246,170 L268,181 L290,192 L312,200 L334,204 L356,207 L378,210 L400,216 L422,223 L444,228 L466,231 L488,232 L510,233 L532,236 L554,240 L576,244 L598,246 L620,246 L642,246 L664,247 L686,249 L708,252 L730,253 L752,253 L774,253 L796,254 L818,255 L840,256 L862,257 L884,257 L906,257 L928,258 L950,258" fill="none" stroke="#F472B6" stroke-width="3" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" dur="8s" repeatCount="indefinite" keyTimes="0;.7;.92;1" values="1;0;0;1"/></path>
+<path id="lp" d="M70,66 L92,81 L114,98 L136,116 L158,134 L180,147 L202,155 L224,162 L246,170 L268,181 L290,192 L312,200 L334,204 L356,207 L378,210 L400,216 L422,223 L444,228 L466,231 L488,232 L510,233 L532,236 L554,240 L576,244 L598,246 L620,246 L642,246 L664,247 L686,249 L708,252 L730,253 L752,253 L774,253 L796,254 L818,255 L840,256 L862,257 L884,257 L906,257 L928,258 L950,258" fill="none"/>
+<circle r="9" fill="#F472B6" filter="url(#g)"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.7;.92;1" calcMode="linear"><mpath href="#lp"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;.01;.92;.95;1" values="0;0.9;0.9;0;0"/></circle>
+<circle r="4" fill="#F472B6"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.7;.92;1" calcMode="linear"><mpath href="#lp"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;.01;.92;.95;1" values="0;1;1;0;0"/></circle>
+<path d="M70,246 L92,223 L114,205 L136,191 L158,180 L180,169 L202,158 L224,146 L246,134 L268,126 L290,120 L312,115 L334,111 L356,106 L378,100 L400,94 L422,90 L444,87 L466,86 L488,85 L510,83 L532,80 L554,76 L576,74 L598,73 L620,72 L642,72 L664,71 L686,70 L708,68 L730,67 L752,66 L774,66 L796,66 L818,66 L840,65 L862,65 L884,64 L906,64 L928,64 L950,64" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" dur="8s" repeatCount="indefinite" keyTimes="0;.7;.92;1" values="1;0;0;1"/></path>
+<path id="ap" d="M70,246 L92,223 L114,205 L136,191 L158,180 L180,169 L202,158 L224,146 L246,134 L268,126 L290,120 L312,115 L334,111 L356,106 L378,100 L400,94 L422,90 L444,87 L466,86 L488,85 L510,83 L532,80 L554,76 L576,74 L598,73 L620,72 L642,72 L664,71 L686,70 L708,68 L730,67 L752,66 L774,66 L796,66 L818,66 L840,65 L862,65 L884,64 L906,64 L928,64 L950,64" fill="none"/>
+<circle r="9" fill="#22D3EE" filter="url(#g)"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.7;.92;1" calcMode="linear"><mpath href="#ap"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;.01;.92;.95;1" values="0;0.9;0.9;0;0"/></circle>
+<circle r="4" fill="#22D3EE"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;.7;.92;1" calcMode="linear"><mpath href="#ap"/></animateMotion><animate attributeName="opacity" dur="8s" repeatCount="indefinite" keyTimes="0;.01;.92;.95;1" values="0;1;1;0;0"/></circle>
+</svg>
