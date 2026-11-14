@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/main/banner.svg" width="100%" alt="Hello, I'm Hari! I am an AIML Enthusiast" />
+</p>
 
-<!--
-**Harii-0/Harii-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I'm currently learning **Python, Machine Learning, Deep Learning, AI Agents.**
+- 💬 Ask me about **AI & ML**
+- 😄 Pronouns: **He/Him**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/PYTHON-2563EB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![C](https://img.shields.io/badge/C-9333EA?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-EF4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-06B6D4?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/SQL-14B8A6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/BASH-22C55E?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MYSQL-0369A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+<br>
+![NumPy](https://img.shields.io/badge/NUMPY-6366F1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/PANDAS-EC4899?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F97316?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-84CC16?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/JUPYTER-D946EF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
+<br>
+![VS Code](https://img.shields.io/badge/VS_CODE-0EA5E9?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GITHUB-F8FAFC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/hari-gomathi-77b5b434b/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/harii_357)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:hari6153w@gmail.com)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Harii-0&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" />
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/22d3ee/Harii-0" alt="Contribution graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:12263F,100:1F4E79&height=120&section=footer" width="100%" />
