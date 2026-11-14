@@ -30,7 +30,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harii-0&bg_color=0D1117&color=9DB2C9&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE&hide_border=true&hide_title=true" width="100%" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/Harii-0/Harii-0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my GitHub contribution graph" />
 </p>
 
 <p align="center">
