@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F14"/><stop offset="1" stop-color="#12263F"/></linearGradient>
+<linearGradient id="bar"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<clipPath id="c0"><rect x="40" y="68" width="0" height="30"><animate attributeName="width" begin="0.0s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="40" y="98" width="0" height="30"><animate attributeName="width" begin="0.6s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="40" y="128" width="0" height="30"><animate attributeName="width" begin="1.2s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="40" y="158" width="0" height="30"><animate attributeName="width" begin="1.8s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="40" y="188" width="0" height="30"><animate attributeName="width" begin="2.4s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="40" y="218" width="0" height="30"><animate attributeName="width" begin="3.0s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="40" y="248" width="0" height="30"><animate attributeName="width" begin="3.6s" dur=".7s" values="0;520" fill="freeze"/></rect></clipPath>
+</defs><rect width="1000" height="320" rx="16" fill="url(#bg)"/>
+<rect x="20" y="20" width="560" height="280" rx="12" fill="#0A0E14" stroke="#2A3A52"/><circle cx="42" cy="40" r="5" fill="#EF4444"/><circle cx="60" cy="40" r="5" fill="#F59E0B"/><circle cx="78" cy="40" r="5" fill="#22C55E"/>
+<text x="300" y="44" text-anchor="middle" font-family="Courier New,monospace" font-size="12" fill="#64748B">about_me.py</text>
+<text x="40" y="92" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#C084FC">class </tspan><tspan fill="#22D3EE">Hari</tspan><tspan fill="#9DB2C9">(</tspan><tspan fill="#22D3EE">AIMLEnthusiast</tspan><tspan fill="#9DB2C9">):</tspan></text>
+<text x="76" y="122" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#F472B6">learning</tspan><tspan fill="#9DB2C9"> = [</tspan></text>
+<text x="112" y="152" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#34D399">"Python"</tspan><tspan fill="#9DB2C9">, </tspan><tspan fill="#34D399">"Machine Learning"</tspan><tspan fill="#9DB2C9">,</tspan></text>
+<text x="112" y="182" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#34D399">"Deep Learning"</tspan><tspan fill="#9DB2C9">, </tspan><tspan fill="#34D399">"AI Agents"</tspan><tspan fill="#9DB2C9">,</tspan></text>
+<text x="76" y="212" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#9DB2C9">]</tspan></text>
+<text x="76" y="242" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#F472B6">ask_me_about</tspan><tspan fill="#9DB2C9"> = </tspan><tspan fill="#34D399">"AI &amp; ML"</tspan></text>
+<text x="76" y="272" font-family="Courier New,monospace" font-size="16" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#F472B6">pronouns</tspan><tspan fill="#9DB2C9"> = </tspan><tspan fill="#34D399">"He/Him"</tspan></text>
+<rect x="262" y="258" width="9" height="18" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+<rect x="600" y="20" width="380" height="280" rx="12" fill="#0A0E14" stroke="#2A3A52"/>
+<text x="624" y="52" font-family="Courier New,monospace" font-size="14" font-weight="700" fill="#E6EDF3">model.fit(learning)</text><circle cx="950" cy="47" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="624" y="74" font-family="Courier New,monospace" font-size="11" fill="#94A3B8">status: training…  (decorative)</text>
+<text x="624" y="110" font-family="Courier New,monospace" font-size="12" fill="#9DB2C9">Python</text><rect x="624" y="118" width="332" height="10" rx="5" fill="#243247"/>
+<rect x="624" y="118" width="0" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" begin="0.3s" dur="1.2s" values="0;286" fill="freeze"/><animate attributeName="opacity" begin="2s" dur="2.4s" values="1;.7;1" repeatCount="indefinite"/></rect>
+<text x="624" y="154" font-family="Courier New,monospace" font-size="12" fill="#9DB2C9">Machine Learning</text><rect x="624" y="162" width="332" height="10" rx="5" fill="#243247"/>
+<rect x="624" y="162" width="0" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" begin="0.6s" dur="1.2s" values="0;232" fill="freeze"/><animate attributeName="opacity" begin="2s" dur="2.4s" values="1;.7;1" repeatCount="indefinite"/></rect>
+<text x="624" y="198" font-family="Courier New,monospace" font-size="12" fill="#9DB2C9">Deep Learning</text><rect x="624" y="206" width="332" height="10" rx="5" fill="#243247"/>
+<rect x="624" y="206" width="0" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" begin="0.9s" dur="1.2s" values="0;193" fill="freeze"/><animate attributeName="opacity" begin="2s" dur="2.4s" values="1;.7;1" repeatCount="indefinite"/></rect>
+<text x="624" y="242" font-family="Courier New,monospace" font-size="12" fill="#9DB2C9">AI Agents</text><rect x="624" y="250" width="332" height="10" rx="5" fill="#243247"/>
+<rect x="624" y="250" width="0" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" begin="1.2s" dur="1.2s" values="0;153" fill="freeze"/><animate attributeName="opacity" begin="2s" dur="2.4s" values="1;.7;1" repeatCount="indefinite"/></rect>
+<text x="624" y="288" font-family="Courier New,monospace" font-size="11" fill="#94A3B8">loss ↓   accuracy ↑   epochs ∞</text></svg>
